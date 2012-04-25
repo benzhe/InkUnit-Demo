@@ -10,3 +10,8 @@ InkUnit Demo
 现在的结果会出现一个类似鸟巢还是头发的东西...
 
 Maybe 以后会换个算法再试试
+
+参考文献
+-------
+
+* http://wenku.baidu.com/view/259687f9941ea76e58fa0475.html
